@@ -1,0 +1,2 @@
+# consol-game
+algorithmic game
